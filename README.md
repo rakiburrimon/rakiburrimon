@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakiburrimon
-- 👀 I’m interested in PHP Laravel and Wordpress
-- 🌱 I’m currently trying to learning GoLang
-- 💞️ I’m looking to collaborate on Laravel and Wordpress workd
+- 👀 I’m interested in PHP Laravel and WordPress
+- 🌱 I’m currently trying to learn GoLang
+- 💞️ I’m looking to collaborate on Laravel and WordPress works
 - 📫 How to reach me at LinkedIn - https://www.linkedin.com/in/rakibur-rimon/
 
 <!---
